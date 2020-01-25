@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Moq.AutoMock" Version="1.2.0.120" />
+    <PackageReference Include="xunit.assert" Version="2.4.1" />
+    <PackageReference Include="xunit.core" Version="2.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AreaCalculator\AreaCalculator.csproj" />
+  </ItemGroup>
+
+</Project>

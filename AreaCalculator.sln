@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculator", "AreaCalculator\AreaCalculator.csproj", "{62DE14A8-D2B9-418B-98AF-2C60AB5A3171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculator.Test", "AreaCalculator.Test\AreaCalculator.Test.csproj", "{605D0DF0-26B3-47C9-B180-7F39CC555D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62DE14A8-D2B9-418B-98AF-2C60AB5A3171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DE14A8-D2B9-418B-98AF-2C60AB5A3171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DE14A8-D2B9-418B-98AF-2C60AB5A3171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DE14A8-D2B9-418B-98AF-2C60AB5A3171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{605D0DF0-26B3-47C9-B180-7F39CC555D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605D0DF0-26B3-47C9-B180-7F39CC555D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605D0DF0-26B3-47C9-B180-7F39CC555D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605D0DF0-26B3-47C9-B180-7F39CC555D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAC5613E-0C5B-4B3F-8EF4-1FDA1183E94B}
+	EndGlobalSection
+EndGlobal
